@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to the Parliament for redress of the common calamity attending these kingdoms at present in coyn and trade.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28469</idno><idno type="EEBO-CITATION">99885599</idno>
+  <idno type="VID">185374</idno>
+  <idno type="EEBO-PROQUEST">2240890979</idno>
+  
+            <idno type="STC">Wing P3771</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[51]</idno>
+            <idno type="STC">ESTC R224694</idno>
+            <idno type="PROQUEST">ocm99885599</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885599e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185374)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to the Parliament for redress of the common calamity attending these kingdoms at present in coyn and trade.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the Widow Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Counterfeits and counterfeiting --  England --  Early works to 1800.</term>
+               <term type="topical_term">Adulterated coins --  England --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  Early works to 1800.</term>
+               <term type="topical_term">Foreign exchange --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals_to_Parliament">
+            <pb facs="tcp:185374:1"/>
+            <head>PROPOSALS TO THE PARLIAMENT, FOR REDRESS OF <hi>The Common Calamity</hi> Attending These Kingdoms at Present in Their COYN and TRADE.</head>
+            <p>AND first, As to its Coyn, That both Bad and Good be Universally Called in, and New Coyned of another Stamp than yet afore.</p>
+            <p>The Bad into single Pence, Two-pences, Three-pences, Groats, and Four-pence-half pennies, for changing Money, of which we have almost none left in the Nation, and we cannot well have too much of; and is at present so extreamly wanted, that in some parts, especially in and about <hi>Exon,</hi> as credibly informed, they are forced for conveniency sake, to make use of Brass Dutch Styvers, and French Brass Sous Marks, in its place.</p>
+            <p>And it is no great matter what Metal such small Money is made of, provided it be equal<g ref="char:EOLhyphen"/>ly Treason to Coyne it, as all other; neither will the loss of it be so burdensome and dis<g ref="char:EOLhyphen"/>contenting as at present, if in some few years after the Charge of the War is over (and you find any Inconvenience in it) you call it in, and coyn others in its place and room.</p>
+            <p>That every Five-Shilling-Piece, and so <hi>pro rato,</hi> all of more or less value, exceed not Four Shillings Nine-pence in Silver, as Silver at farthest is now worth by the Ounce.</p>
+            <p>That the present Ounce Rates of both Silver and Gold may not be lessened for these Ten Years to come, (unless on its Experiment you find apparent Cause to the contrary:) For that no doubt it will be of wonderful good effect, to both Trade and else; especially in the more grateful and easie carrying on of the War, to these Nations.</p>
+            <p>That there be an exact Account kept by faithful able hands, Debtor and Creditor, of both the Loss of Bad and Clipt (of what, as above, to be a-new Coyned at) and Profit on the Unclipt Moneys, said to have Six Shillings and two pence of Silver in every Five-Shil<g ref="char:EOLhyphen"/>ling-Piece, as now Silver is worth.</p>
+            <p>That as there is to be no loss to any Particular on the Clipt, so no Profit to any on the Unclipt, as long as they are to receive what will pass from them by Law for like value in payment again; but both Profit and Loss to the Publick.</p>
+            <p>That for prevention of Fraud, no Unclipt Money to be melted down, but by the Mint, under Treason; nor Concealed from the Mint, under great Penalty: For that it is concei<g ref="char:EOLhyphen"/>ved, that if all be brought forth, the Profit on the Good, would almost, if not altogether, equal the Loss on the Bad, whose Out-cry seems more numerous and asrighting than really it is, by not only Moneyed Mens, but others also keeping in the Good, (fearing else to have again Bad in its place) and managing Trade only a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it were with the said Bad.</p>
+            <p>That it be Treason either to Offer or Receive any Clipt Money for time to come, whe<g ref="char:EOLhyphen"/>ther Old or New Coyn, and a hundred pound Reward to every Discoverer of every mani<g ref="char:EOLhyphen"/>fest false Coyner, that is brought to, and suffers condign Punishment.</p>
+            <pb facs="tcp:185374:2"/>
+            <p> That there be a convenient quantity of Silver borrowed on the Publick Credit, until it can be repaid (at Interest, to be added to what other loss, if any) to be Coyned as a Stock ready aforehand, to be issued in Payment of such Moneys, as above, as shall Enter, until it can be New Coyned, that Trade be not hindered.</p>
+            <p>That if there be any Loss on the whole matter, it be equally raised on both Land and Trade, in manner as the Four Shillings <hi>per</hi> Pound Tax, that Particulars be not ruinated by a greater Grievance.</p>
+            <p>For should it be Ordered it should not be taken in, but every one should bear his own loss at it falls, it will immediately influence hardly any, and those very little, if any, but Trades-Men; four parts, it may be, in five of which, being Cloth-Workers, Serge and Stuff-Makers, Retale Shop-Keepers of all sorts, Handy-Craft, and other Trades-Men and Wo<g ref="char:EOLhyphen"/>men too, are not able to bear: That it's feared, they will be turbulent in such Case.</p>
+            <p>Besides, wherein will the Profit of we Landed Men be thereby, if we so far, and sing<g ref="char:EOLhyphen"/>ly too, discourage the Trading part of the Nation? Are they not our great Benefactors? And pray what would become of our Lands, and our Grandeurs likewise, of the Fruits of our Fields, our Corn, our Milk, Cheese, Butter, Flesh, and else whatsoever, if almost Nine parts in Ten of it were not brought up and Expended by the several Cities, Corpo<g ref="char:EOLhyphen"/>rations, Towns and Traders, that are within our own several Countries, which have no other way or means to Purchase it of us, our Tenants and the like, but Trade? That in all things, I think, it highly imports us to Cherish it and them as our own Lives.</p>
+            <p>Next, As to our Monies passing somewhat above its Value, it highly imports these Three Kingdoms, and the Enriching both the Noble and Ignoble in it, is in part amply Illustra<g ref="char:EOLhyphen"/>ted in the Case of Guineas now before us at this Instant, running about two Shillings in Thirty above its Value in Gold, hath not only returned them us from abroad (which else we had never seen more) but for re-transporting their Value, raised our Manufactories, and our other Productions, twice as much as that comes too, in some four Shillings in every such thirty (in Drest Calf-Skins more, some from Ten Pence to Sixteen Pence each Pound weight:) Besides, occasioned the carrying off very unusual and far greater quantities thereof, that Wooll it self is thereby Advanced extreamly; and our Poor (before almost, many of them and their Families ready to perish for want of Work) recovered as from the Dead; all which is so notorious, that You may with ease inform Your Selves of its undeniable Truth.</p>
+            <p>Moreover your Lessening the value of your Coyn, as above, will hinder its Transpor<g ref="char:EOLhyphen"/>tation, which through its former greatness in weight, hath been, it seems, a common Commerce from our South-Coast; I my self having in the Long Parliaments Days seen it sold to a great Banker in a great Port of <hi>France</hi> by the Ounce and Pound as Goods, (not<g ref="char:EOLhyphen"/>withstanding the then Law to the contrary, through its weakness) to greater Profit to the Merchant Seller, than by our most-demanded-there Manufactories; and that they buy it too, and their Advantage lies in melting it down, is evident, in both their sending it instant<g ref="char:EOLhyphen"/>ly for <hi>Paris,</hi> and giving for quantities of it more by the Ounce, than it will there pass for in Coyn; which they likewise pick up there and ingross, it is so profitable to that End and Service, so fast, that there is hardly any of it to be found in any part of their Countrey unmelted.</p>
+            <p>It will also nip the growing destroying Evil to these Nations of the great Trade by Ex<g ref="char:EOLhyphen"/>change, instead of our yet afore Manufactories, and other our Productions, which antient<g ref="char:EOLhyphen"/>ly supplied its room, and that beyond all doubt too; for these Kingdoms with their other Productions, have more Woolls of their own by far, (setting Spanish and others aside, the Manufactoring of which here, is of vast Advantage to us) than, if Manufactored all with us here at home within our selves, will supply us with more than we want from abroad, (the <hi>East Indies</hi> and our own <hi>Plantations</hi> only excepted) so that we need not at all to carry out our Money and Treasure to do it.</p>
+            <p>If the great Wisdom of this Nations <hi>Parliament</hi> would but adjoyn to it an Act making it as well Confiscation of Ship and Goods, as Treason, where-ever found, (<hi>France</hi> doth more, extending it sometimes to Mens other Estates besides (and that on lesser moments, by which Severity they find intire Obedience) to every one and all that shall dare to trans<g ref="char:EOLhyphen"/>port from amongst our selves, any of our own (or others, once imported here) Woolls un<g ref="char:EOLhyphen"/>manufactored.</p>
+            <p>Our yet-afore-made weaker Law, although in present force, will not do it; their Pro<g ref="char:EOLhyphen"/>secution is made so Intricate, Troublesome, Dilatory and Chargeable withal, to the Pro<g ref="char:EOLhyphen"/>secutor, that none cares to meddle therein; when as such Laws should rather be made easie, Tryals short and speedy, followed with an unmitigated uncompoundable, swift Execu<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:185374:2"/>to the greater Terror o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the O<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ende<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and all so far from the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart Charge to the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecu<g ref="char:EOLhyphen"/>tor, that it should be done at the Publick's, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded besides from thence with his very great Reward, suitable to the unexpressableness of so Publick a Benefit.</p>
+            <p>The contrary (with Submission) will most certainly Debase and Impoverish us, whatever our Oratorical, High strained Elaborate Writers suggest; foor if our Woolls be carried out, they can not only Manufactor them, but cheaper than we, having their Poor at lower Rates, and so will take and reap that Benefit from us, which is far greater than the Wooll its self. Besides, we must then, if we will have any of their Growths, carry them our Moneys first or last, one way or other, whether by that masked Covert of the Exchange, or more immediately; to their great inriching, in our steads.</p>
+            <p>Let it never be forgotten that about Fourty Years ago, <hi>France</hi> was so exceeding scarce of Silver in their Country, that they were forced to manage a great part of their Trade and their other Affairs with Brass Deneirs, to so great inconveniency, that on their Pay<g ref="char:EOLhyphen"/>ments, they were forced to carry them on Porters backs, and many times in Carts with Horses from House to House; but since abounding in Trade and Clothing, through our neglect, they have mightily increased and abounded in both Silver and Gold, or their Monarch could not have Nosed so many Powerful Princes at this day; when it is not long since he paid a kind of Homage in <hi>Dunkirk</hi> to <hi>Oliver,</hi> as some instance of his then Hu<g ref="char:EOLhyphen"/>mility, and future good Behaviour in that time of his great Weakness and Indigent Creep<g ref="char:EOLhyphen"/>ing, Lowness and Poverty.</p>
+            <p>And whereas some have mistakenly and ignorantly thought, that the Transporting Woolls would add to their price; Ancient Experience shews the Contrary. (But suppose it, although false, would not it be lost again several times over in its Non-manufactoring there right) for when all was Manufactured here at Home, it was worth almost, if not quite, double to what it is now.</p>
+            <p>Besides, Instead of being dearer for it, with what is carried out hence, and the <hi>Irish</hi> Act together just before the Wars, <hi>Irish</hi> Wooll was sold in <hi>France</hi> cheaper than in <hi>England;</hi> that set aside a few fine mixed Clothes that they cannot learn the Art and Secret of mixing as yet, they can not only give themselves a full supply cheaper than we can, but begin to furnish other People also in our stead; yea, and we our selves too, with some of their Stuffs made there with our own Wooll: Which cannot (if not timely and effectually prevented) Centre in any other, than our own Ruine at last.</p>
+            <p>It was but a little times before the War, that a great Whole-Sale <hi>French</hi> Woollen-Draper told me upbraidingly, to the best of my remembrance, That they either did already, or would suddenly make more Broad-Clothes in <hi>France</hi> than in <hi>England;</hi> for that in <hi>Langue<g ref="char:EOLhyphen"/>doc,</hi> they had a great many Thousand of Cloth-Workers, besides elsewhere, which is so mightily encouraged by their King, that they have gotten to a great Degree therein of Perfection.</p>
+            <p>It was not for nothing, that our Ancestors Ordered their Seats in Parliament on Wooll-Packs, that They might never forget to keep and secure this great Treasure within Their Own Bowels, as the Main Wheel on which Their All seemed mostly to depend, and was a great secondary Cause of both Their Power, Strength and Riches, and therefore calls loudly for the Deepest Endeavours, and Utmost Consults for its Preservation.</p>
+            <p>For most certainly, this, and no other, with Prostration of my Mite, to Your Great, Deep, and Profound Treasury can advance Your Lands, fill Your Private and Publick Treasures too, by bringing in, instead of carrying out, Gold and Silver in abundance; which must naturally return in Manufactory and all other Productions, and make these the Three Richest, and consequently the most Powerful Three Kingdoms in the whole Universe.</p>
+            <p>This will renown You, draw the Prayers of the Poor to ascend for You, cause Your Names to live to Posterity and Ages to come, to Celebrate Your Praises; and truly it is worth Your Consideration how many Scores of Thousands of these of our Three King<g ref="char:EOLhyphen"/>doms All depends upon that single Manufactory of Woolls; and it may be, You will find the Number beyond Your Belief.</p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:185374:3"/>
+            <head>POSTSCIPT.</head>
+            <p>I Can neither apprehend or learn from utmost Search and Enquiry, how it will be any the least Disadvantage to these Nations (or other than great Profit) to Value Bulloyn with us, somewhat above other Kingdoms; and consequently our Coyn in a suitable proportion to it, above its worth in Silver or Gold.</p>
+            <p>For that whether in already, or brought in hereafter, by either Our Selves or Strangers, it must fix it here, from recarrying back in Specie.</p>
+            <p>Nor yet by Exportation, but in lieu and place of our Manufactories and Productions, as we shall from time to time have abroad, over and above, and besides whatever of their Growths we shall have occasion of from thence.</p>
+            <p>So that whether Abroad or at Home, by Exchange or otherwise, whatever Silver or Gold is brought into these Kingdoms, their Effects and Proceeds must unavoidly one way or other, first or last, in such case be Invested and Employed in our Manufactories or other Productions, if ever it will be returned again without great loss, which will not answer the end of the Bringers.</p>
+            <p>Besides, It must needs force a greater Expence of our Productions, and consequently, such a Demand thereon, as must of necessity advance them far beyond the Difference of our Bullyon and Coyn with Forreigners.</p>
+            <p>When note, it will occasion the Expence, Sale, and Dispatch of what we have, not for one or two years only, but always, and every year in abundance, and what other Nations cannot be without, as we can without theirs; so that the greater Obligation lies on their part.</p>
+            <p>Keeping here still but a little before others in Your Bulloyn, if Gold and Silver increase never so much Abroad, it can never hurt You, as long as You give but Your Own Manu<g ref="char:EOLhyphen"/>factories and Productions for it, which ariseth so Free, Naturally, and Constantly to You as the Fruits of Your Country; But contrariwise You will thereby drain their Mines for them, and make Your Selves a Bank for Treasure, Power and Strength, and consequent<g ref="char:EOLhyphen"/>ly be the Fear of all about You.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for the Widow <hi>Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
